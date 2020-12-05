@@ -57,8 +57,8 @@ source("Script_File_S6_Data_analysis_ELOA_Validation.R")
 source("Script_File_S7_Data_analysis_TTDN1_Validation.R")
 source("Script_File_S8_Data_analysis_EP400_Validation.R")
 
-sink("Text_File_S2_Session_Info_Validation.txt")
-sessionInfo()
-sink()
+# sink("Text_File_S2_Session_Info_Validation.txt")
+# sessionInfo()
+# sink()
 
 
